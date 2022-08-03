@@ -1,0 +1,47 @@
+html {
+  background-color:#8000ff;
+}
+.App{
+  background-color: #8000ff;
+}
+.card{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 500px;
+  min-height: 500px;
+  background-color: #8000ff;
+  text-align: center;
+  margin:100px auto !important;
+  border-radius: 30px;
+  padding-bottom: 32px;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card-title{
+  font-family: 'Merriweather', serif;
+}
+.weathercard{
+  font-family: 'Ibarra Real Nova', serif;
+}
+.data{
+  margin-top:7px;
+  font-size:20px;
+}
+.info{
+  font-size:18px;
+}
+.row{
+  margin-top:15px;
+}
+.form-control{
+  text-align: center;
+  width:300px;
+  border-radius:20px;
+}
+.btn{
+  width:140px;
+}
+.weathercard{
+  color:white;
+}
